@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 
 // Dependency-free Barbell Club prototype.
 // This version avoids lucide-react, framer-motion, and shadcn/ui so the ChatGPT canvas preview can run without fetching external CDN modules.
