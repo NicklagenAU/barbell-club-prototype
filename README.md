@@ -4,6 +4,14 @@ A React + TypeScript prototype for a Barbell Club member/admin system.
 
 This project was built as an interactive prototype/wireframe for testing user flows, collecting feedback, and demonstrating iterative software design.
 
+## Live Demo
+
+View the deployed prototype here:
+
+https://nicklagenau.github.io/barbell-club-prototype/
+
+A React + TypeScript prototype for a Barbell Club member/admin system.
+
 ## Features
 
 ### Member Features
