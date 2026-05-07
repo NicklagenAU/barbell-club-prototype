@@ -12,6 +12,8 @@ https://nicklagenau.github.io/barbell-club-prototype/
 
 A React + TypeScript prototype for a Barbell Club member/admin system.
 
+The email and password can be random inputs.
+
 ## Features
 
 ### Member Features
